@@ -1,3 +1,5 @@
+// Depth first search code
+// Question link - https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
 
 void DFS(map<int, list<int>> &adjlist, vector<int> &vis, vector<int> &component, int node)
 {
