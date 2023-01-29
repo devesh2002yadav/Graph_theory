@@ -1,3 +1,6 @@
+// cycle detection in directed graph using DFS
+// check for vis=1 && dfsvis=1 - cycle present
+
 #include<unordered_map>
 #include<vector>
 #include<queue>
