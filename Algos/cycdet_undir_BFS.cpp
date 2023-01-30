@@ -1,5 +1,5 @@
 // Cycle detection in undirected graph using BFS
-// Question - https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=love-babbar-dsa-sheet-problems&leftPanelTab=1&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+// Question - https://bit.ly/3M4jIX5
 
 
 #include<unordered_map>
