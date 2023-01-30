@@ -1,6 +1,6 @@
 // cycle detection in directed graph using DFS
 // check for vis=1 && dfsvis=1 - cycle present
-// Question link - https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_1062626?leftPanelTab=1&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+// Question link - https://bit.ly/3Pa72Qy
 
 #include<unordered_map>
 #include<vector>
