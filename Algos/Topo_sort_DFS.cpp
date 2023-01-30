@@ -1,5 +1,6 @@
 // Topological sort - only in DAG(directed acyclic graph)
 // Question link - https://bit.ly/3M9mM4t
+// TC - O(n+e) , use vector<vector<int>> adjlist && vector<int> vis, instead of map
 
 #include<bits/stdc++.h> 
 #include<unordered_map>
