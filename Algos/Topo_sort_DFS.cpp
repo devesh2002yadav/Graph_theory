@@ -1,4 +1,4 @@
-// Topological sort - only in DAG(directed acyclic graph)
+// Topological sort - only in DAG(directed acyclic graph) - *DFS*
 // Question link - https://bit.ly/3M9mM4t
 // TC - O(n+e) , use vector<vector<int>> adjlist && vector<int> vis, instead of map
 
