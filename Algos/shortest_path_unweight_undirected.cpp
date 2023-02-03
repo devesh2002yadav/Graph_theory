@@ -1,3 +1,9 @@
+// Shortest Path in Undirected & Unweighted graph
+// Question link - https://www.codingninjas.com/codestudio/problems/shortest-path-in-an-unweighted-graph_981297?leftPanelTab=1&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+
+//   *Imp*  To reduce TC - use vector<int> vis(n, 0);
+//   But as index starts from 1 to n, so everywhere vis[x] ---> vis[x-1] ;
+
 #include<bits/stdc++.h> 
 #include<unordered_map>
 #include<vector>
